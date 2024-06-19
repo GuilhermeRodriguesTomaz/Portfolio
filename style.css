@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+strong{
+    color: #0F6292;
+
+}
+h1{
+    font-weight: bold;
+}
+
+span{
+    color: #0F6292;
+    border: 1px solid #0F6292;
+    padding: 10px;
+}
