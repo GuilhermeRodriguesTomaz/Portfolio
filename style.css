@@ -28,7 +28,7 @@ h1{
 
 .apresentacao
 {
-margin: 10%;
+margin: 10% 15%;
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -37,6 +37,9 @@ justify-content: space-between;
 .apresentacao__conteudo
 {
     width: 615 px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__titulo
@@ -68,4 +71,5 @@ justify-content: space-between;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
     text-decoration: none;
+    margin: 2%;
 }
