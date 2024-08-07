@@ -41,7 +41,7 @@ h1{
 .cabecalho_menu_link
 {
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5 rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -64,7 +64,7 @@ justify-content: space-between;
 
 .apresentacao__conteudo__titulo
 {
-    font-size: 36px;
+    font-size: 2.25 rem;
     font-family: var(--fonte-primaria);
 }
 .titulo-destaque{
@@ -73,7 +73,7 @@ justify-content: space-between;
 }
 .apresentacao__conteudo__texto
 {
-    font-size: 24px;
+    font-size: 1.5 rem;
     font-family: var(--fonte-secundaria);
 }
 
@@ -94,7 +94,7 @@ justify-content: space-between;
     width: 378px;
     text-align: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5 rem;
     padding: 21.5px;
     color:var(--cor-secundaria);
     font-family: var(--fonte-secundaria);
@@ -110,7 +110,7 @@ justify-content: space-between;
 {
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5 rem;
 }
 
 .rodape
@@ -120,6 +120,6 @@ justify-content: space-between;
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5 rem;
     font-weight: 400;
 }
