@@ -52,6 +52,7 @@ padding: 5% 15%;
 display: flex;
 align-items: center;
 justify-content: space-between;
+gap: 82px;
 }
 
 .apresentacao__conteudo
@@ -127,4 +128,19 @@ justify-content: space-between;
 .apresentacao__imagem
 {
     width: 50%; 
+}
+
+@media (max-width: 1200px)
+{
+    .cabecalho
+    {    
+        padding: 10%;
+    }
+    .cabecalho_menu
+    {
+        justify-content: center;
+    }
+    .apresentacao{
+        flex-direction: column-reverse;
+    }
 }
